@@ -7,12 +7,9 @@ This project implements a **Random Forest Classifier** to detect fraudulent cred
 ```
 fraud-detection/
 │── README.md
-│── data/
-│   ├── credit_card_transactions.csv  # Dataset
 │── src/
 │   ├── fraud_detection.py  # Main script
 │── requirements.txt
-│── .gitignore
 ```
 
 ## 🛠️ Installation & Setup  
